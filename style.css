@@ -1,0 +1,13 @@
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("discord-bg.jpg");/* The image used */
+    background-repeat: no-repeat;/* Center the image */
+    background-position: center;/* Do not repeat the image */
+    background-size: cover;/* Resize the background image to cover the entire container */
+    height: 100vh;
+
+    font-family:sans-serif; 
+}
